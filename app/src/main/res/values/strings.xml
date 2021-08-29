@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherForecastApp</string>
+    <string name="search_by_name">بحث بإسم المدينة</string>
+    <string name="emptylist">لا يوجد بيانات لعرضها في الوقت الحالي برجاء إدخال إسم مدينتك بشكل صحيح في البحث</string>
+    <string name="pleasefillfield">برجاء كتابة إسم المدينة</string>
+    <string name="notfoundcity">لا يوجد مدينة بهذا الإسم</string>
+    <string name="check_internet">قم بفحص إتصالك بالإنترنت</string>
+</resources>
